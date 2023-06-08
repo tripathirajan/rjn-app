@@ -1,11 +1,11 @@
 {
-  "name": "@tripathirjn/rjn-app",
+  "name": "@tripathirjn/rjn-ui",
   "version": "1.0.0",
   "description": "react mui wrapper library",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./dist/esm/index.d.ts",
-  "repository": "https://github.com/tripathirjn/rui-theme.git",
+  "repository": "https://github.com/tripathirajan/rjn-ui.git",
   "author": "Rajan Tripathi <tripathirajan3@gmail.com>",
   "license": "MIT",
   "private": false,
