@@ -1,7 +1,7 @@
 import React from 'react'
 import { Icon } from '@iconify/react'
-import { default as squareFill } from '@iconify-icons/eva/square-fill'
-import { default as minusSquareFill } from '@iconify-icons/eva/minus-square-fill'
+import squareFill from '@iconify-icons/eva/square-fill'
+import minusSquareFill from '@iconify-icons/eva/minus-square-fill'
 import { default as checkmarkSquare2Fill } from '@iconify-icons/eva/checkmark-square-2-fill'
 
 const ICON_MEDIUM = { width: 24, height: 24 }

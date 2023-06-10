@@ -42,7 +42,7 @@
     "fix": "npm run format && npm run lint && tsc",
     "lint": "eslint \"{**/*,*}.{js,ts,jsx,tsx}\"",
     "format": "prettier --write \"{lib,tests,example/src}/**/*.{js,ts,jsx,tsx}\"",
-    "test": "jest --config jestconfig.json web",
+    "test": "jest --config jestconfig.json ",
     "build": "npm run build:esm && npm run build:cjs",
     "build:esm": "tsc",
     "build:cjs": "tsc --module commonjs --outDir dist/cjs",
