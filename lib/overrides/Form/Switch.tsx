@@ -9,7 +9,7 @@ export default function Switch(theme: any) {
       styleOverrides: {
         root: {},
         thumb: {
-          boxShadow: theme.shadows[25].z1,
+          boxShadow: theme.customShadows.z1,
         },
         track: {
           opacity: 1,
